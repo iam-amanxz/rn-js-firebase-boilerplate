@@ -1,0 +1,28 @@
+export default {
+  light: {
+    white: '#FFFFFF',
+    primary: '#F5754D',
+    textPrimary: '#243640',
+    textSecondary: '#272634',
+    textTertiary: '#626262',
+    textGrey: '#828282',
+    borderPrimary: '#F3F4F6',
+    borderSecondary: '#DDDDDD',
+    link: '#5363F0',
+    container: '#ffffff',
+    card: '#F3F4F6',
+  },
+  dark: {
+    white: '#FFFFFF',
+    primary: '#5363F0',
+    textPrimary: '#F3F4F6',
+    textSecondary: '#F9FAFB',
+    textTertiary: '#D1D5DB',
+    textGrey: '#9CA3AF',
+    borderPrimary: '#121620',
+    borderSecondary: '#6B7280',
+    link: '#5363F0',
+    container: '#0B0F1A',
+    card: '#121620',
+  },
+}
